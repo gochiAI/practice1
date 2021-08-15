@@ -8,7 +8,7 @@ python for,rangeを使った簡単なスクリプト
 S = open('出力ファイル名',mode='a')
 
 
-for Story in range(1,44):
-  Story = "{0:02d}".format(Story)
-  Y=f'![](URLとか{Story}.jpeg)'
-  S.write(Y+"\r\n")
+for Story in range(1,44):  
+  Story = "{0:02d}".format(Story)  
+  Y=f'![](URLとか{Story}.jpeg)'  
+  S.write(Y+"\r\n")  
