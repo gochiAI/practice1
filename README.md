@@ -1,2 +1,4 @@
 # practice1
-python Requests-HTMLでTwitterの指定アカウントをクローンする。
+python for,rangeを使った簡単なスクリプト  
+.md用の連番画像を表示させたい時にいちいち書くのは、だるかった。  
+
